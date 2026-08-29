@@ -1,10 +1,7 @@
 # Project: Real-Time Insurance Claims Anomaly Detection
 
 ### Group Members
-* [Member 1 Name] - [Contribution/Role]
-* [Member 2 Name] - [Contribution/Role]
-* [Member 3 Name] - [Contribution/Role]
-* [Member 4 Name] - [Contribution/Role]
+* Avik Raj - 2025AE05301
 
 ### Project Overview
 This project is a Cloud-based Data Science/Machine Learning application designed to simulate and process a real-time stream of vehicle insurance claims. The architecture includes an automated data pipeline for continuous ingestion, pre-processing, and exploratory data analysis (EDA), orchestrated using cloud-native DataOps practices.
